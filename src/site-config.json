@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Alliance Contracting and Repair, LLC",
+    "phone": "+18173002070",
+    "category": "general contractor",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-dark-premium",
+      "categoryGroup": "general-contractor",
+      "name": "Dark Premium",
+      "recipeFile": "general-contractor/dark-premium.astro",
+      "colors": {
+        "primary": "#60A5FA",
+        "primaryDark": "#4d84c8",
+        "primaryLight": "#bfdbfd",
+        "secondary": "#2A2A2A",
+        "accent": "#78b3fb",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fort Worth Home Repair Experts",
+      "heroSubline": "Reliable contracting services across the Dallas-Fort Worth metroplex. Quality workmanship and customer satisfaction are our priorities.",
+      "aboutTitle": "Your Trusted Fort Worth Contractor",
+      "aboutText": [
+        "Alliance Contracting and Repair, LLC was founded on the principles of integrity, quality, and service. We're a family-owned business based right here in Fort Worth, dedicated to providing exceptional home repair and improvement services to our neighbors.",
+        "We believe in clear communication, honest pricing, and treating every project as if it were our own home. From small repairs to complete renovations, we approach each job with meticulous attention to detail and a commitment to exceeding your expectations.",
+        "We're proud to be a part of the Fort Worth community and actively support local organizations. We strive to build lasting relationships with our clients and contribute to making our city a better place to live."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Fort Worth architecture and common home issues."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Punctual, professional, and committed to completing projects on time and within budget."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "Skilled craftsmen using premium materials for lasting results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, clear estimates, and open communication throughout the project."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Protecting your home from the Texas elements with expert roof repair.",
+        "description": "The Texas climate can be brutal on roofs. From intense summer heat to hail storms and occasional ice, your roof endures a lot. Alliance Contracting and Repair specializes in diagnosing and repairing all types of roof damage, ensuring your home stays safe and dry. Whether you have missing shingles, leaks, storm damage, or just need a routine inspection, our experienced team will provide a thorough assessment and effective solutions.\n\nWe work with asphalt shingles, tile roofs, metal roofing, and more. Our roof repair services include leak detection and repair, shingle replacement, flashing repair, and addressing damage caused by wind, hail, or falling debris. We use high-quality materials and proven techniques to ensure lasting repairs that protect your investment. We understand the urgency of roof repairs, especially after a storm, and offer prompt and reliable service to minimize further damage to your home.\n\nDon't wait until a small leak becomes a major problem. Contact Alliance Contracting and Repair for a professional roof inspection and expert repair services. We'll help you keep your roof in top condition, protecting your home and family for years to come.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify damage and assess the extent of the problem.",
+          "Step 2: Detailed estimate outlining the necessary repairs and associated costs.",
+          "Step 3: Professional repair using high-quality materials and expert craftsmanship.",
+          "Step 4: Final inspection to ensure the repairs are completed to your satisfaction."
+        ],
+        "benefits": [
+          "Prevents leaks and water damage",
+          "Extends the life of your roof",
+          "Increases your home's value",
+          "Protects your family and belongings"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need roof repair?",
+            "answer": "Common signs include visible leaks, missing or damaged shingles, dark stains on ceilings, and excessive granules in your gutters. A professional inspection can provide a definitive assessment."
+          },
+          {
+            "question": "How long does a roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a day, while more extensive repairs may take several days."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we understand that roof damage can occur unexpectedly. We offer emergency roof repair services to address urgent issues and prevent further damage to your home."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Creating your dream bathroom with expert remodeling services in Fort Worth.",
+        "description": "Transform your outdated bathroom into a relaxing and functional space with Alliance Contracting and Repair's bathroom remodeling services. We understand that the bathroom is one of the most important rooms in your home, and we're dedicated to creating a space that meets your needs and reflects your personal style.\n\nFrom simple updates like new fixtures and vanities to complete bathroom renovations, our experienced team can handle every aspect of your project. We'll work closely with you to understand your vision, develop a design that maximizes space and functionality, and select high-quality materials that fit your budget. Our services include: fixture replacement (toilets, sinks, showers, tubs), vanity installation, tile work (floors, walls, backsplashes), electrical and plumbing upgrades, and custom cabinetry. We handle all necessary permits and inspections, ensuring your project is completed safely and to code.\n\nWhether you're looking to create a spa-like retreat or simply update an outdated space, Alliance Contracting and Repair can bring your bathroom remodeling dreams to life. Contact us today to schedule a consultation and let's discuss your project.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision, budget, and design preferences.",
+          "Step 2: Detailed design and planning phase, including material selection and layout options.",
+          "Step 3: Professional installation and construction, with attention to detail and quality craftsmanship.",
+          "Step 4: Final inspection to ensure your complete satisfaction with the finished project."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Improves functionality",
+          "Enhances comfort and relaxation",
+          "Updates aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "The timeline for a bathroom remodel varies depending on the scope of the project. A simple update may take a few days, while a complete renovation can take several weeks."
+          },
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "Permits are typically required for significant bathroom remodeling projects that involve plumbing or electrical work. We handle all necessary permit applications to ensure your project is compliant with local regulations."
+          },
+          {
+            "question": "How much does a bathroom remodel cost?",
+            "answer": "The cost of a bathroom remodel depends on the size of the bathroom, the materials selected, and the complexity of the project. We provide detailed estimates that outline all costs upfront, so you know exactly what to expect."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transforming your kitchen into the heart of your home with expert remodeling services.",
+        "description": "The kitchen is often considered the heart of the home. Alliance Contracting and Repair specializes in kitchen remodeling projects that enhance functionality, aesthetics, and overall value. Whether you're looking to update your cabinets, install new countertops, or completely redesign your kitchen layout, our experienced team can bring your vision to life.\n\nWe offer a comprehensive range of kitchen remodeling services, including: custom cabinet design and installation, countertop replacement (granite, quartz, marble), backsplash installation, flooring upgrades, appliance installation, and electrical and plumbing modifications. We work with you to understand your needs, design a space that maximizes efficiency and storage, and select high-quality materials that complement your style and budget. Our team understands the challenges of kitchen remodeling and strives to minimize disruption to your daily life during the construction process. \n\nLet Alliance Contracting and Repair create the kitchen of your dreams. Contact us today to schedule a consultation and discuss your project goals.",
+        "process": [
+          "Step 1: Consultation to discuss your vision, budget, and desired features.",
+          "Step 2: Design and planning phase, including layout options, material selection, and appliance choices.",
+          "Step 3: Demolition and construction, with careful attention to detail and minimal disruption.",
+          "Step 4: Final inspection and walkthrough to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Improves functionality and efficiency",
+          "Enhances aesthetics and style",
+          "Creates a more enjoyable cooking and gathering space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel depends on the scope of the project. A minor update may take a few weeks, while a complete renovation can take several months."
+          },
+          {
+            "question": "Do I need to move out during a kitchen remodel?",
+            "answer": "While it's possible to remain in your home during a kitchen remodel, it can be disruptive. We work to minimize the inconvenience and maintain a clean and safe work environment."
+          },
+          {
+            "question": "What are the latest trends in kitchen remodeling?",
+            "answer": "Popular trends include open-concept layouts, smart appliances, energy-efficient lighting, and durable, low-maintenance materials. We stay up-to-date on the latest trends to help you create a kitchen that's both stylish and functional."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Enhancing the beauty and value of your home with professional flooring installation.",
+        "description": "New flooring can dramatically transform the look and feel of your home. Alliance Contracting and Repair offers professional flooring installation services for a wide variety of materials, including hardwood, laminate, tile, vinyl, and carpet. Whether you're updating a single room or replacing the flooring throughout your entire home, our experienced installers will ensure a flawless and lasting result.\n\nWe work with top-quality flooring materials from leading manufacturers and offer expert advice to help you choose the best flooring option for your needs and budget. Our services include: subfloor preparation, precise measurements and cutting, professional installation, and thorough cleanup. We take pride in our attention to detail and commitment to customer satisfaction. We understand that flooring installation can be disruptive, and we strive to minimize the inconvenience and complete the project efficiently.\n\nFrom classic hardwood to durable tile, Alliance Contracting and Repair can help you find the perfect flooring solution for your home. Contact us today to schedule a consultation and get a free estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your flooring needs, preferences, and budget.",
+          "Step 2: Site assessment and precise measurements to ensure accurate material ordering.",
+          "Step 3: Professional installation by experienced and skilled flooring installers.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Enhances aesthetics and style",
+          "Improves comfort and durability",
+          "Reduces allergens and improves air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does flooring installation take?",
+            "answer": "The duration of flooring installation depends on the size of the area, the type of flooring, and the complexity of the installation. We provide estimated timelines during the consultation process."
+          },
+          {
+            "question": "Do I need to remove my furniture before flooring installation?",
+            "answer": "Yes, it's best to remove all furniture and belongings from the area before flooring installation. We can assist with moving furniture for an additional fee."
+          },
+          {
+            "question": "How do I maintain my new flooring?",
+            "answer": "The maintenance requirements vary depending on the type of flooring. We provide detailed care instructions to help you keep your new flooring looking its best for years to come."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Bringing color and life to your home with professional interior and exterior painting.",
+        "description": "A fresh coat of paint can revitalize your home's interior and exterior, enhancing its curb appeal and protecting it from the elements. Alliance Contracting and Repair offers professional painting services for residential properties in the Fort Worth area. Our experienced painters use high-quality paints and proven techniques to deliver a flawless and lasting finish.\n\nWe offer a comprehensive range of painting services, including: interior painting (walls, ceilings, trim), exterior painting (siding, fences, decks), drywall repair, and surface preparation. We take pride in our attention to detail and meticulous approach, ensuring that every surface is properly prepared and painted to perfection. We understand that painting can be disruptive, and we strive to minimize the inconvenience and complete the project efficiently.\n\nWhether you're looking to update your home's color scheme or protect it from the Texas weather, Alliance Contracting and Repair can help. Contact us today to schedule a consultation and get a free estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your painting needs, color preferences, and budget.",
+          "Step 2: Surface preparation, including cleaning, sanding, and priming.",
+          "Step 3: Professional painting using high-quality paints and proven techniques.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Enhances aesthetics and style",
+          "Protects surfaces from damage",
+          "Improves air quality by reducing allergens"
+        ],
+        "faq": [
+          {
+            "question": "How long does a painting project take?",
+            "answer": "The duration of a painting project depends on the size of the area, the number of coats required, and the complexity of the project. We provide estimated timelines during the consultation process."
+          },
+          {
+            "question": "Do I need to move my furniture before painting?",
+            "answer": "Yes, it's best to move all furniture and belongings away from the walls before painting. We can assist with moving furniture for an additional fee."
+          },
+          {
+            "question": "How do I choose the right paint color?",
+            "answer": "We offer color consultation services to help you choose the perfect paint colors for your home. We can provide expert advice based on your style, lighting, and existing decor."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-installation",
+        "name": "Fence Repair & Installation",
+        "shortDescription": "Securing and beautifying your property with expert fence services.",
+        "description": "A well-maintained fence provides security, privacy, and curb appeal to your home. Alliance Contracting and Repair offers professional fence repair and installation services for residential properties in Fort Worth and surrounding areas. Whether you need to repair a damaged fence, install a new fence, or replace an old one, our experienced team can handle the job with expertise and precision.\n\nWe work with a variety of fencing materials, including wood, chain-link, vinyl, and wrought iron. Our services include: fence repair (broken posts, damaged panels, gate repair), fence installation (new construction, replacement), fence staining and painting, and gate installation and repair. We understand the importance of a strong and durable fence, and we use high-quality materials and proven techniques to ensure a lasting result. We also understand the specific needs of Fort Worth homeowners, considering factors like wind resistance and local building codes.\n\nProtect your property and enhance its beauty with a professionally installed or repaired fence from Alliance Contracting and Repair. Contact us today to schedule a consultation and get a free estimate.",
+        "process": [
+          "Step 1: Consultation to discuss your fencing needs, preferences, and budget.",
+          "Step 2: Site assessment and precise measurements to ensure accurate material ordering.",
+          "Step 3: Professional installation or repair by experienced and skilled fence technicians.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increases property value",
+          "Provides security and privacy",
+          "Enhances curb appeal",
+          "Defines property boundaries"
+        ],
+        "faq": [
+          {
+            "question": "How long does fence installation take?",
+            "answer": "The duration of fence installation depends on the size of the fence, the type of material, and the complexity of the installation. We provide estimated timelines during the consultation process."
+          },
+          {
+            "question": "Do I need a permit for fence installation?",
+            "answer": "Permits may be required for fence installation depending on local regulations. We can assist with obtaining the necessary permits."
+          },
+          {
+            "question": "How do I maintain my fence?",
+            "answer": "The maintenance requirements vary depending on the type of fence. We provide detailed care instructions to help you keep your fence looking its best for years to come."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC is proud to offer comprehensive general contracting services to the residents and businesses of Dallas, Texas. From the iconic skyline to the charming neighborhoods filled with 1950s ranch-style homes, Dallas presents unique construction and renovation needs. We understand the importance of preserving the character of these established neighborhoods while providing modern updates and improvements.\n\nOur team is experienced in handling the specific challenges posed by the Dallas climate, including hot and humid summers. Whether you're looking to remodel your kitchen, add an addition to your home, or require repairs after a storm, we are committed to delivering exceptional craftsmanship and reliable service. We are your trusted partner for all your contracting needs in Dallas.",
+        "localContext": "We specialize in renovations of the classic 1950s ranch homes found throughout Dallas, understanding the architectural nuances and common issues that arise in these properties.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC extends its expert general contracting services to Plano, Texas. Known for its well-planned subdivisions developed in the 1980s and 90s, Plano offers a diverse range of homes and businesses that require skilled contractors. We are dedicated to providing high-quality construction, renovation, and repair services to meet the needs of this thriving community.\n\nWe understand the importance of energy efficiency and durability in the face of the hot and humid Plano summers. Whether you're planning a kitchen remodel, bathroom renovation, or whole-house upgrade, we use only the finest materials and employ proven techniques to ensure lasting results. Trust Alliance Contracting and Repair, LLC for all your contracting needs in Plano.",
+        "localContext": "We have extensive experience working in Plano's established subdivisions, familiar with the common construction styles and homeowner association guidelines.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC is pleased to provide top-notch general contracting services to the rapidly growing city of Frisco, Texas. With its abundance of newer construction dating from the 2000s to the present, Frisco presents unique opportunities for modern design and innovative building solutions. We are committed to delivering exceptional quality and customer satisfaction in every project we undertake.\n\nWe recognize the importance of staying up-to-date with the latest building trends and technologies to meet the demands of Frisco's discerning homeowners. From custom home builds to stylish renovations, we have the expertise and resources to bring your vision to life. Let Alliance Contracting and Repair, LLC be your trusted partner for all your contracting needs in Frisco.",
+        "localContext": "We specialize in working with the newer construction found throughout Frisco, familiar with the latest building codes and design trends.",
+        "nearbyAreas": [
+          "The Colony",
+          "Little Elm",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC proudly serves the historic city of McKinney, Texas, with expert general contracting services. From the charming homes in the historic downtown area to the newer developments on the outskirts of town, McKinney offers a diverse range of construction and renovation opportunities. We are committed to preserving the city's rich heritage while providing modern solutions for today's homeowners.\n\nOur team is experienced in working with the unique challenges presented by older homes, including foundation repairs, historical preservation, and energy efficiency upgrades. We also offer a full range of services for new construction and remodeling projects. Trust Alliance Contracting and Repair, LLC for all your contracting needs in McKinney, especially when dealing with the hot humid summers.",
+        "localContext": "We have extensive experience working with historic homes in McKinney's downtown area, understanding the importance of preserving their architectural integrity.",
+        "nearbyAreas": [
+          "Allen",
+          "Fairview",
+          "Melissa"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC is dedicated to providing exceptional general contracting services to the residents and businesses of Arlington, Texas. Known for its 1960s and 70s ranch-style homes, Arlington presents unique renovation and repair needs. We understand the importance of providing reliable and affordable solutions to meet the demands of this vibrant community.\n\nOur team is experienced in handling the specific challenges posed by the Arlington climate, including hot and humid summers, and the aging infrastructure of older homes. Whether you're looking to update your kitchen, remodel your bathroom, or require repairs after a storm, we are committed to delivering exceptional craftsmanship and reliable service. We are your trusted partner for all your contracting needs in Arlington.",
+        "localContext": "We are skilled in remodeling and updating the classic 1960s and 70s ranch homes common in Arlington, addressing common issues like outdated plumbing and electrical systems.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "As a locally owned and operated business, Alliance Contracting and Repair, LLC is proud to call Fort Worth, Texas home. We are dedicated to providing our neighbors with exceptional general contracting services, from small repairs to large-scale renovations. We understand the unique architectural styles and construction needs of Fort Worth's diverse neighborhoods.\n\nWhether you're looking to restore a historic home in the Near Southside, update a modern residence in Westover Hills, or build a custom home from the ground up, we have the expertise and resources to bring your vision to life. We are committed to delivering quality workmanship, reliable service, and unparalleled customer satisfaction. Let Alliance Contracting and Repair, LLC be your trusted partner for all your contracting needs in Fort Worth.",
+        "localContext": "We are intimately familiar with the diverse architectural styles found throughout Fort Worth, from historic bungalows to modern masterpieces.",
+        "nearbyAreas": [
+          "Benbrook",
+          "Saginaw",
+          "White Settlement"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC is pleased to offer its comprehensive general contracting services to the city of Irving, Texas. With a diverse mix of residential and commercial properties, Irving presents a wide range of construction and renovation opportunities. We are committed to providing high-quality workmanship, reliable service, and exceptional customer satisfaction to the residents and businesses of Irving.\n\nFrom remodeling kitchens and bathrooms to building additions and completing commercial build-outs, we have the expertise and resources to handle any project, big or small. We understand the importance of staying on schedule and within budget, and we work closely with our clients to ensure their complete satisfaction. Trust Alliance Contracting and Repair, LLC for all your contracting needs in Irving.",
+        "localContext": "We understand the unique needs of Irving's diverse neighborhoods, from older residential areas to newer commercial developments.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC provides top-quality general contracting services to the residents and businesses of Garland, Texas. Garland's mix of established neighborhoods and growing commercial areas requires a versatile and experienced contractor. We are dedicated to delivering exceptional craftsmanship, reliable service, and outstanding customer satisfaction.\n\nWhether you're looking to renovate your home, expand your business, or require repairs after a storm, we have the expertise and resources to get the job done right. We understand the challenges posed by the Texas climate and are committed to providing durable and energy-efficient solutions. Choose Alliance Contracting and Repair, LLC for all your contracting needs in Garland.",
+        "localContext": "We are familiar with the construction styles and common issues found in Garland's established residential areas.",
+        "nearbyAreas": [
+          "Mesquite",
+          "Richardson",
+          "Sachse"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC proudly serves the city of Richardson, Texas, with expert general contracting services. Richardson's mix of residential, commercial, and industrial properties requires a contractor with diverse skills and experience. We are committed to providing high-quality workmanship, reliable service, and exceptional customer satisfaction to the Richardson community.\n\nFrom remodeling kitchens and bathrooms to building additions and completing commercial tenant improvements, we have the expertise and resources to handle any project. We understand the importance of working closely with our clients to ensure their complete satisfaction. Trust Alliance Contracting and Repair, LLC for all your contracting needs in Richardson.",
+        "localContext": "We are experienced in working with the diverse range of properties in Richardson, from older homes to modern commercial buildings.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Addison"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "Alliance Contracting and Repair, LLC is pleased to offer comprehensive general contracting services to the residents and businesses of Grand Prairie, Texas. With its diverse mix of residential neighborhoods, commercial centers, and industrial parks, Grand Prairie requires a versatile and experienced contractor. We are committed to delivering exceptional quality, reliable service, and outstanding customer satisfaction.\n\nWhether you're looking to renovate your home, expand your business, or require repairs after a storm, we have the expertise and resources to get the job done right. We understand the challenges posed by the Texas climate and are committed to providing durable and energy-efficient solutions. Choose Alliance Contracting and Repair, LLC for all your contracting needs in Grand Prairie.",
+        "localContext": "We are familiar with the construction styles and common issues found in Grand Prairie's varied residential and commercial areas.",
+        "nearbyAreas": [
+          "Arlington",
+          "Irving",
+          "Mansfield"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Alliance Contracting fixed a leak in my roof after that crazy hail storm last spring. They came out quickly, gave me a fair estimate, and did a great job. Highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Alliance to remodel our outdated bathroom. The results are fantastic! There were a couple of minor delays, but they communicated well and addressed our concerns promptly. We love our new shower!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Our kitchen remodel with Alliance Contracting was a dream! They helped us design a beautiful and functional space that we absolutely love. The team was professional, courteous, and always on time. Worth every penny!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Flooring Installation",
+        "text": "Alliance installed new hardwood floors throughout our downstairs. The installers were meticulous and did an amazing job. The floors look gorgeous and have completely transformed our home. Very happy with the service!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Painting Services",
+        "text": "We hired Alliance to paint the exterior of our house. They did a great job prepping the surfaces and the paint job looks fantastic. There were a couple of minor touch-ups needed, but they took care of them quickly and efficiently.",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Fence Repair",
+        "text": "My fence was damaged in a recent storm, and Alliance Contracting came out and repaired it quickly and affordably. The repaired section looks just as good as the original fence. I would definitely use them again.",
+        "date": "2024-02-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Alliance Contracting | Fort Worth Contractor",
+        "description": "Reliable contractor in Fort Worth, TX. Home repair, remodeling, roofing, and more. Free estimates! Call now."
+      },
+      "about": {
+        "title": "About Alliance Contracting | Fort Worth, TX",
+        "description": "Learn about Alliance Contracting and Repair, a trusted Fort Worth contractor. Quality home repair and remodeling services."
+      },
+      "services": {
+        "title": "Services | Alliance Contracting | Fort Worth",
+        "description": "Comprehensive contracting services in Fort Worth: roofing, remodeling, flooring, painting, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Alliance Contracting | Fort Worth, TX",
+        "description": "Contact Alliance Contracting and Repair for reliable home repair and remodeling services in Fort Worth, TX. Get a free estimate!"
+      },
+      "reviews": {
+        "title": "Reviews | Alliance Contracting | Fort Worth",
+        "description": "Read what our clients are saying about Alliance Contracting and Repair. Trusted contractor in Fort Worth, TX."
+      },
+      "service-areas": {
+        "title": "Service Areas | Alliance Contracting | TX",
+        "description": "Alliance Contracting provides services to Dallas, Plano, Frisco, McKinney, Arlington, and Fort Worth, TX"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp",
+      "painting-services": "/images/service-painting-services.webp",
+      "fence-repair-installation": "/images/service-fence-repair-installation.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-installation": {
+        "src": "/images/service-fence-repair-installation.webp",
+        "srcset": "/images/service-fence-repair-installation-400w.webp 400w, /images/service-fence-repair-installation-800w.webp 800w, /images/service-fence-repair-installation-1200w.webp 1200w, /images/service-fence-repair-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

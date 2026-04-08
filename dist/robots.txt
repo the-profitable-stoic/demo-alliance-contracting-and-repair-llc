@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-alliance-contracting-and-repair-llc.dream-surge.com/sitemap-index.xml
